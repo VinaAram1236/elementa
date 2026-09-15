@@ -1,5 +1,3 @@
-Here is a clean, modern, and beautifully formatted version of your `README.md` file. It fixes the missing markdown headers and list formatting so it renders nicely on GitHub.
-
 ```markdown
 # 🌐 NEXUS — The Connected Learning Lab
 
